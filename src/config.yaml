@@ -1,0 +1,26 @@
+title: BdSL Letter Recognition
+description: Classify Bangla Sign Letters Using Deep Learning
+image: 
+  url: ../static/image/BdSL36.png
+about:
+
+
+  This is a BdSL Letter Classifier using Deep Learning built on top of Pytorch.
+
+
+  The project was build by [Md. Saiful Islam](https://github.com/somum)
+
+
+  More info and the source code can he found below.
+
+  - [**Video of demo detection**](https://youtu.be/W6iH3VHJ6mw)
+  - [**Reference of Letters**](https://drive.google.com/file/d/1viV8sFMeuYDNv5OW02ruPMfIR4N7Ijwh/view?usp=sharing)
+
+
+
+code: https://github.com/somum/BdSL_Classify_Flask_React
+
+sampleImages:
+  - name: BdSL
+    url: https://drive.google.com/file/d/1viV8sFMeuYDNv5OW02ruPMfIR4N7Ijwh/view?usp=sharing
+
